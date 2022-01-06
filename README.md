@@ -48,6 +48,9 @@ https://ru.bem.info/methodology/quick-start/
 _Генератор html дерева. Проверка БЭМ_
 https://yoksel.github.io/html-tree/
 
+_npm open source решения_
+https://www.npmjs.com/
+
  `p.s`
  Ссылки будут обновляться по мере того, как я буду находить новые.
  Если у вас есть предложения, что можно добавить в этот список,
