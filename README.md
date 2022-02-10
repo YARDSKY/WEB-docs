@@ -28,6 +28,7 @@ _Простые правила разметки_
 https://yoksel.github.io/easy-markup/
 
 _Типограф — помогает расставить отступы в вебе там, где это нужно_
+
 https://www.artlebedev.ru/typograf/
 
 _FLEXBOX FROGGY — тренажер flexbox_
